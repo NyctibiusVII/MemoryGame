@@ -77,7 +77,7 @@ Te peço mil desculpas mas no momento esse serviço para mobile ficara indispon�
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://memory-game.vercel.app/">🕹🍄 Site hospedado na Vercel 🍄🕹</a>
+  <a href="https://memory-game-beige.vercel.app/">🕹🍄 Site hospedado na Vercel 🍄🕹</a>
 
 #### Na sua maquina:
 
